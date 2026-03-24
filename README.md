@@ -17,7 +17,7 @@
 ## 📂 项目结构 (Project Structure)
 
 ```text
-blind-nav-ppt/
+0324-blind-nav-ppt/
 ├── index.html   # 核心幻灯片代码 (单文件集成 HTML/CSS/JS/SVG)
 └── README.md    # 项目说明文档
 ```
@@ -33,7 +33,7 @@ blind-nav-ppt/
 
 1. 克隆或下载本仓库：
    ```bash
-   git clone https://github.com/Tully-L/blind-nav-ppt.git
+   git clone https://github.com/Tully-L/0324-blind-nav-ppt.git
    ```
 2. 在任意现代浏览器中打开 `index.html`。
 3. **演示快捷键**：
